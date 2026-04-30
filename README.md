@@ -12,4 +12,4 @@ An interactive web-based tool to create, visualize, and simulate **DFA and NFA**
 HTML, CSS, JavaScript (Canvas)
 
 ## ▶️ Usage
-Open `automata-visualizer.html` in your browser.
+Open `index.html` in your browser.
